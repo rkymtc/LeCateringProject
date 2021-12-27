@@ -1,6 +1,6 @@
 # LeCateringProject
 
-for preview:
+
 [Demo](https://rkymtc.github.io/LeCateringProject/)
 
 ## Bilgisayarınızda Çalıştırın
